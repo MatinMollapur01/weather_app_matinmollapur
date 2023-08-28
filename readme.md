@@ -18,7 +18,7 @@ A minimalistic weather application built with `tkinter` in Python. The app fetch
 ## Installation:
 
 1. Clone the repository:
-git clone https://github.com/your_username/weather-app.git
+(https://github.com/MatinMollapur01/weather_app_matinmollapur.git)
 
 
 2. Navigate to the project directory:
